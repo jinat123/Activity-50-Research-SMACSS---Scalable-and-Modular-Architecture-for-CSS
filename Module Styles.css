@@ -1,0 +1,12 @@
+/* Module styles */
+.button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: white;
+}

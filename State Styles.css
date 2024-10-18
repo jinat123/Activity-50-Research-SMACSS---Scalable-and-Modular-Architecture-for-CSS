@@ -1,0 +1,9 @@
+.is-active {
+    background-color: green;
+    color: white;
+}
+
+.is-disabled {
+    background-color: gray;
+    cursor: not-allowed;
+}
